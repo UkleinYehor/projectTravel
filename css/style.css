@@ -144,20 +144,20 @@ h1{
 }
 
 .button{
-	text-transform: uppercase;
-	text-align: left;
-	font-size: 14px;
+    text-transform: uppercase;
+    text-align: left;
+    font-size: 14px;
     background: #18b5a4;
-	margin: 59px 970px 154px 500px;
+    margin: 59px 970px 154px 500px;
     border-radius: 100px;
     color: #ffffff;
     font-weight: 400px;
     letter-spacing: 2.8px;
     white-space: nowrap;
     box-shadow: 0 6px 40px rgba(128, 183, 179, 0.54);
-
 	padding: 17px 100px 17px 30px; 
 }
+
 .button:after{
 	content:'→';
 
